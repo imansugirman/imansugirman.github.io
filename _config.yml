@@ -8,7 +8,7 @@ description : Your awesome site
 author      : Desired Persona
 email       : your-email@domain.com
 baseurl     : "" # the subpath of your site, e.g. /blog
-url         : ""
+url         : "https://imansugirman.github.io"
 date_format : "%-d %b %Y"
 port        : 4000
 
