@@ -2,11 +2,11 @@
 # Site Settings
 ################################
 lang        : "en"
-logo        :
-title       : Minimal Theme
-description : Your awesome site
-author      : Desired Persona
-email       : your-email@domain.com
+logo        : "/assets/images/author.jpg"
+title       : Iman Sugirman
+description : Blog dan Iman
+author      : Iman Sugirman
+email       : nakamura.agatha@gmail.com
 baseurl     : "" # the subpath of your site, e.g. /blog
 url         : "https://imansugirman.github.io"
 date_format : "%-d %b %Y"

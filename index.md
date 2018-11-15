@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Minimal Jekyll Theme
-subtitle: Convert more of your website visitors 
-paragraph: into subscribers, customers and clients. 
+title: Make Your Change
+subtitle: Dari Bogor untuk Dunia
+paragraph: into subscribers, customers and clients.
 header:
     layout: hero
     navigation: fancy

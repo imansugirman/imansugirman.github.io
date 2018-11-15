@@ -5,9 +5,9 @@
 */
 
 // Typography
-$font-family: 'Circular Std Book', sans-serif;
+$font-family: 'Nunito', sans-serif;
 
-$code-font-family: menlo, monaco, monospace;
+$code-font-family: 'Roboto Mono', sans-serif;
 $code-font-size: 0.9rem;
 $code-font-weight: 300;
 
@@ -38,7 +38,7 @@ $alert-light: $near-white;
 $alert-dark: $black-90;
 
 // Codeblocks
-$code-background-color: $near-white;
+$code-background-color: #fbfbfb;
 $linenos-color: $moon-gray;
 $gutter-background-color: $light-gray;
 
